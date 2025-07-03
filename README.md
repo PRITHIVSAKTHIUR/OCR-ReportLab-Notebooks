@@ -1,5 +1,7 @@
 # **OCR-ReportLab**
 
+![OCR](https://github.com/user-attachments/assets/83a88cd7-c19e-4214-bf59-6ede1eb05e89)
+
 > [!note]
 **OCR-ReportLab** is a collection of Colab notebooks designed to perform Optical Character Recognition (OCR) on images and generate DOCX or PDF documents containing both the original image and the extracted text. It supports multiple state-of-the-art vision-language models for experimentation and practical use.
 
