@@ -33,6 +33,13 @@ The repository currently supports the following OCR implementations:
 
 No installation is required. Simply click on the links above to run the notebooks in Google Colab. Make sure to upload your image file(s) when prompted and follow the instructions in the notebook.
 
+---
+
+## Other Images
+![222](https://github.com/user-attachments/assets/eae0f85d-2963-4edf-96e9-caedfe048c4f)
+
+---
+
 ## Dependencies
 
 The notebooks are built using:
