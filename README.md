@@ -1,3 +1,6 @@
+> [!note]
+All notebooks run on the Gradio ≤ 5.47.1 SDK. If you encounter any component errors, please ensure your environment has Gradio v4.57.1 installed.
+
 # **[OCR-ReportLab-Notebooks](https://huggingface.co/prithivMLmods/OCR-ReportLab-Notebooks/tree/main)**
 
 ![1.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/ksAGbgk8Gm4qstLB7bE4q.png)
